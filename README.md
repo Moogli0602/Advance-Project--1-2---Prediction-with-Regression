@@ -2,8 +2,6 @@
 
 # Prediction with Regression
 
-# Prediction with Regression
-
 Welcome to the Prediction with Regression repository! This repository contains two advanced projects focusing on building simple linear regression models using Python. The primary objectives of these projects are to predict Delivery Time based on Sorting Time and to create a prediction model for Salary Hike.
 
 ## Project Details
